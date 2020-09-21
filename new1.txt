@@ -1,0 +1,1 @@
+Understanding why it is writing sometimes commit and sometimes merge in the git commands
