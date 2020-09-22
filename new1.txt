@@ -1,1 +1,1 @@
-This is the new addition of file new1.txt
+I am checking the push command
